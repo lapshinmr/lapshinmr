@@ -99,13 +99,14 @@ reusing them is easier.
 
 <img src="assets/food-puzzle-1.png" width="800" alt="Food Puzzle — weight trend and nutrition analytics">
 
-The multi-person mode wasn't a feature for its own sake — it was the design constraint. I added my
-wife and my father specifically to prove the data entry stayed fast enough that one person could
-keep several people logged without it becoming a chore. If it survives that, it survives anything.
+The multi-person mode wasn't a feature for its own sake — it was the design constraint. I added two
+other people to the app — an older man and a young woman — specifically to prove the data entry
+stayed fast enough that one person could keep several profiles logged without it becoming a chore.
+If it survives that, it survives anything.
 
-It also produced the result I'm most pleased with: my father lost **5.1 kg in 63 days** averaging
-1,833 kcal a day. Look at the orange bars below — he went over target regularly. Nothing was
-forbidden, nothing was weighed in misery; the food was simply structured well enough that the
+It also produced the result I'm most pleased with: the older man lost **5.1 kg in 63 days**
+averaging 1,833 kcal a day. Look at the orange bars below: he went over target regularly. Nothing
+was forbidden, nothing was weighed in misery; the food was simply structured well enough that the
 deficit happened on its own.
 
 <img src="assets/food-puzzle-2.png" width="800" alt="Food Puzzle — 63 days of tracked progress">
@@ -136,8 +137,8 @@ the catalog myself.
 
 Most of what I've built isn't here, and that's deliberate. Samomes, Food Puzzle and Rastuchka are
 live products carrying real user data — Samomes and Rastuchka went private once they picked up
-paying users and payment flows, Food Puzzle once it held health records for my own family. Client
-and employer work is closed for the obvious reasons.
+paying users and payment flows, Food Puzzle once it started holding real people's health records.
+Client and employer work is closed for the obvious reasons.
 
 What's public are older side projects. The links above are where the actual work lives — all of it
 in production, all of it something you can go click on right now.
