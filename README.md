@@ -42,7 +42,7 @@ Started as an open-source tool, grew into a commercial product with paid subscri
 Built and run solo — frontend, Firestore data models, security rules, Cloud Functions, media
 pipeline, billing, content, SEO.
 
-- **+130%** pageviews year over year
+- **+130%** pageviews year over year in 2025
 - **7+ minute** average sessions — people work in it, they don't just land on it
 - **48%** of traffic from organic search
 - Shareable tank journals with comments and likes on entries and photos
