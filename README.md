@@ -2,7 +2,7 @@
 
 **Lead Frontend Engineer · Vue.js / Nuxt.js · TypeScript**
 
-10+ years in software engineering. I build products end-to-end — architecture, frontend,
+11+ years in software engineering. I build products end-to-end — architecture, frontend,
 backend, payments, deployment — and I've shipped several of my own from idea to paying users.
 
 Started with Python in 2015 (scrapers, NLP pipelines, Flask backends), moved through fullstack,
