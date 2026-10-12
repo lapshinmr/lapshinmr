@@ -3,7 +3,7 @@
 **Lead Frontend Engineer · Vue.js / Nuxt.js · TypeScript**
 
 11+ years in software engineering. I build products end-to-end — architecture, frontend,
-backend, payments, deployment — and I've shipped several of my own from idea to paying users.
+backend, payments, deployment.
 
 Started with Python in 2015 (scrapers, NLP pipelines, Flask backends), moved through fullstack,
 and consciously specialized in frontend because that's where the product actually meets people.
@@ -38,15 +38,14 @@ problem by a distance. Private-by-default content that users selectively publish
 sharing permission model, enforced in Firestore security rules rather than trusted to the client,
 and denormalized counters so a feed doesn't read every comment and like just to render.
 
-Started as an open-source tool, grew into a commercial product with paid subscriptions.
-Built and run solo — frontend, Firestore data models, security rules, Cloud Functions, media
-pipeline, billing, content, SEO.
+As the sole engineer, built the frontend, Firestore data models, security rules, Cloud Functions,
+media pipeline, and billing.
 
-- **+130%** pageviews year over year in 2025
-- **7+ minute** average sessions — people work in it, they don't just land on it
-- **48%** of traffic from organic search
+- Interconnected calculators cut dosing calculation time by **95%**
+- Mobile Lighthouse performance score of **95+**
+- Migrated the live platform from **Vue 2 to Vue 3**, including the Nuxt and Vuetify upgrades
 - Shareable tank journals with comments and likes on entries and photos
-- Freemium subscriptions via PayPal & YooKassa, full EN/RU localization
+- Multi-currency subscriptions via PayPal & YooKassa, full EN/RU localization
 - Installable PWA — built for use standing at the aquarium, phone in hand
 
 <img src="assets/samomes-2.png" width="800" alt="Samomes — mobile PWA recipe builder">
@@ -58,7 +57,7 @@ pipeline, billing, content, SEO.
 
 **[dutyrefunds.co.uk](https://dutyrefunds.co.uk)** · Vue 3, Nuxt 3, TypeScript, Tailwind, Playwright
 
-Sole frontend lead in a team of 8, for close to three years. Owned the entire frontend direction —
+Sole frontend lead in a team of 8, for close to four years. Owned the entire frontend direction —
 architecture, standards, hiring, mentorship, and delivery process — across a multi-sided platform:
 a B2C claim portal, a B2B merchant onboarding flow, and a Shopify app.
 
@@ -135,10 +134,9 @@ the catalog myself.
 
 ## 📦 About the repository list
 
-Most of what I've built isn't here, and that's deliberate. Samomes, Food Puzzle and Rastuchka are
-live products carrying real user data — Samomes and Rastuchka went private once they picked up
-paying users and payment flows, Food Puzzle once it started holding real people's health records.
-Client and employer work is closed for the obvious reasons.
+Most of what I've built isn't here, and that's deliberate. Employer and client work is closed for
+the obvious reasons. Rastuchka went private once it picked up payment flows, and Food Puzzle once
+it started holding real people's health records.
 
 What's public are older side projects. The links above are where the actual work lives — all of it
 in production, all of it something you can go click on right now.
