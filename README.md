@@ -1,6 +1,6 @@
 # Mikhail Lapshin
 
-**Lead Frontend Engineer · Vue.js / Nuxt.js · TypeScript**
+**Senior Frontend Engineer · Vue.js / Nuxt.js · TypeScript**
 
 11+ years in software engineering. I build products end-to-end — architecture, frontend,
 backend, payments, deployment.
@@ -18,6 +18,28 @@ Since 2021 I've worked as a frontend lead: architecture, standards, testing, hir
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 💼 Duty Refunds — UK import VAT refund platform
+
+**[dutyrefunds.co.uk](https://dutyrefunds.co.uk)** · Vue 3, Nuxt 3, TypeScript, Tailwind, Playwright
+
+Sole frontend lead in a team of 8, for close to four years. Owned the entire frontend direction —
+architecture, standards, hiring, mentorship, and delivery process — across a multi-sided platform:
+a B2C claim portal, a B2B merchant onboarding flow, and a Shopify app.
+
+- Built the E2E testing infrastructure from scratch: **100+** Playwright scenarios across B2C and
+  B2B, plus a TypeScript utility layer that made writing tests **2–3x** faster
+- Cut code review time by **50%** while improving review quality
+- Improved load speed by **40–50%** (SSR, image optimization, lazy loading, tree shaking)
+- Redesigned the sprint as an overlapping release pipeline — urgent production fixes dropped from
+  roughly weekly to once every few months
+- Led the Vue 2 → Vue 3 / Nuxt 3 migration and built a themeable Tailwind component library
+  documented in Storybook
+
+<img src="assets/duty-refunds-1.jpg" width="800" alt="Duty Refunds — landing page built on the in-house UI kit">
+<img src="assets/duty-refunds-2.png" width="800" alt="Duty Refunds — B2B merchant onboarding flow">
 
 ---
 
@@ -50,28 +72,6 @@ media pipeline, and billing.
 
 <img src="assets/samomes-2.png" width="800" alt="Samomes — mobile PWA recipe builder">
 <img src="assets/samomes-1.png" width="800" alt="Samomes — dosing calculator">
-
----
-
-## 💼 Duty Refunds — UK import VAT refund platform
-
-**[dutyrefunds.co.uk](https://dutyrefunds.co.uk)** · Vue 3, Nuxt 3, TypeScript, Tailwind, Playwright
-
-Sole frontend lead in a team of 8, for close to four years. Owned the entire frontend direction —
-architecture, standards, hiring, mentorship, and delivery process — across a multi-sided platform:
-a B2C claim portal, a B2B merchant onboarding flow, and a Shopify app.
-
-- Built the E2E testing infrastructure from scratch: **100+** Playwright scenarios across B2C and
-  B2B, plus a TypeScript utility layer that made writing tests **2–3x** faster
-- Cut code review time by **50%** while improving review quality
-- Improved load speed by **40–50%** (SSR, image optimization, lazy loading, tree shaking)
-- Redesigned the sprint as an overlapping release pipeline — urgent production fixes dropped from
-  roughly weekly to once every few months
-- Led the Vue 2 → Vue 3 / Nuxt 3 migration and built a themeable Tailwind component library
-  documented in Storybook
-
-<img src="assets/duty-refunds-1.jpg" width="800" alt="Duty Refunds — landing page built on the in-house UI kit">
-<img src="assets/duty-refunds-2.png" width="800" alt="Duty Refunds — B2B merchant onboarding flow">
 
 ---
 
