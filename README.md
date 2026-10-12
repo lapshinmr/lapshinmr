@@ -25,18 +25,26 @@ Since 2021 I've worked as a frontend lead: architecture, standards, testing, hir
 
 **[dutyrefunds.co.uk](https://dutyrefunds.co.uk)** · Vue 3, Nuxt 3, TypeScript, Tailwind, Playwright
 
-Sole frontend lead in a team of 8, for close to four years. Owned the entire frontend direction —
-architecture, standards, hiring, mentorship, and delivery process — across a multi-sided platform:
-a B2C claim portal, a B2B merchant onboarding flow, and a Shopify app.
+As the frontend lead in a team of **8**, designed the frontend architecture from scratch across a
+multi-sided platform: a B2C refund claim portal, a B2B merchant onboarding flow, and a Shopify app
+(React).
 
-- Built the E2E testing infrastructure from scratch: **100+** Playwright scenarios across B2C and
-  B2B, plus a TypeScript utility layer that made writing tests **2–3x** faster
-- Cut code review time by **50%** while improving review quality
-- Improved load speed by **40–50%** (SSR, image optimization, lazy loading, tree shaking)
-- Redesigned the sprint as an overlapping release pipeline — urgent production fixes dropped from
-  roughly weekly to once every few months
-- Led the Vue 2 → Vue 3 / Nuxt 3 migration and built a themeable Tailwind component library
-  documented in Storybook
+- Built E2E testing with Playwright covering **100+** critical user flows, plus a TypeScript layer
+  that auto-generates test code, making new tests **2–3x** faster to write
+- Architected a themeable Vue 3 component library on Tailwind CSS and Storybook, shared across
+  three applications
+- Doubled Lighthouse performance score from **40** to **80** through server-side rendering (SSR),
+  image optimization, lazy loading of page sections, and tree shaking
+- Migrated legacy Vue 2 Options API architecture to Vue 3 Composition API and implemented native
+  TypeScript support for bug reduction
+- Cut urgent production fixes from **weekly** to **once every few months** and code review time by
+  **50%** by rebuilding the two-week sprint as an overlapping release pipeline and introducing
+  shared review standards, team coaching, and a pre-deploy checklist
+- Removed mid-sprint blocking between frontend and backend by introducing contract-first API
+  development, with the frontend authoring API specifications and building against mocked data
+  ahead of backend implementation
+- Mentored junior developers up to senior level through code review and pair programming, and took
+  part in hiring frontend engineers
 
 <img src="assets/duty-refunds-1.jpg" width="800" alt="Duty Refunds — landing page built on the in-house UI kit">
 <img src="assets/duty-refunds-2.png" width="800" alt="Duty Refunds — B2B merchant onboarding flow">
@@ -47,28 +55,15 @@ a B2C claim portal, a B2B merchant onboarding flow, and a Shopify app.
 
 **[samomes.com](https://samomes.com)** · Nuxt.js, Vuetify, Firebase, PWA
 
-Fertilizer dosing for planted aquariums is genuinely hard chemistry, and most hobbyists do it in
-spreadsheets or by guesswork. Samomes replaces that with interconnected calculators that solve the
-whole system instantly.
+Engineered a subscription SaaS for aquascapers across frontend, backend, and data. Interconnected
+calculators turn water-chemistry inputs into fertilizer doses, cutting calculation time by
+**95%**, and feed every dose into an aquarium journal that users publish and discuss.
 
-That was the starting point. The platform has since grown a second half: aquarium journals, where
-hobbyists document a tank over months, then publish that journal for others to follow and comment
-on. Entries and individual photos each carry their own comments and likes.
-
-Turning a single-user calculator into a multi-user product was the more interesting engineering
-problem by a distance. Private-by-default content that users selectively publish means a real
-sharing permission model, enforced in Firestore security rules rather than trusted to the client,
-and denormalized counters so a feed doesn't read every comment and like just to render.
-
-As the sole engineer, built the frontend, Firestore data models, security rules, Cloud Functions,
-media pipeline, and billing.
-
-- Interconnected calculators cut dosing calculation time by **95%**
-- Mobile Lighthouse performance score of **95+**
+- Architected the frontend as a responsive, installable Progressive Web App (PWA) on Nuxt.js,
+  Vuetify, and Firebase, with one codebase for desktop and mobile
+- Reached a mobile Lighthouse performance score of **95+**
 - Migrated the live platform from **Vue 2 to Vue 3**, including the Nuxt and Vuetify upgrades
-- Shareable tank journals with comments and likes on entries and photos
-- Multi-currency subscriptions via PayPal & YooKassa, full EN/RU localization
-- Installable PWA — built for use standing at the aquarium, phone in hand
+- Built multi-currency subscriptions using PayPal and YooKassa, plus bilingual support
 
 <img src="assets/samomes-2.png" width="800" alt="Samomes — mobile PWA recipe builder">
 <img src="assets/samomes-1.png" width="800" alt="Samomes — dosing calculator">
