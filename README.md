@@ -67,8 +67,8 @@ calculators turn water-chemistry inputs into fertilizer doses, cutting calculati
 
 <img src="assets/samomes-1.png" width="800" alt="Samomes — landing page">
 <img src="assets/samomes-2.png" width="800" alt="Samomes — social layer">
-<img src="assets/samomes-3.png" width="800" alt="Samomes — Lighthouse performance score">
 <img src="assets/samomes-4.png" width="800" alt="Samomes — Mobile interfaces">
+<img src="assets/samomes-3.png" width="800" alt="Samomes — Lighthouse performance score">
 
 ---
 
