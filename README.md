@@ -65,8 +65,9 @@ calculators turn water-chemistry inputs into fertilizer doses, cutting calculati
 - Migrated the live platform from **Vue 2 to Vue 3**, including the Nuxt and Vuetify upgrades
 - Built multi-currency subscriptions using PayPal and YooKassa, plus bilingual support
 
-<img src="assets/samomes-2.png" width="800" alt="Samomes — mobile PWA recipe builder">
-<img src="assets/samomes-1.png" width="800" alt="Samomes — dosing calculator">
+<img src="assets/samomes-1.png" width="800" alt="Samomes — landing page">
+<img src="assets/samomes-2.png" width="800" alt="Samomes — social layer">
+<img src="assets/samomes-3.png" width="800" alt="Samomes — Lighthouse performance score">
 
 ---
 
